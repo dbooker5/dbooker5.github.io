@@ -14,13 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Delan Booker Portfolio
-email:
+email: booker@studio5.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  I'm a passionate developer who loves turning ideas into code and a 
+  security-focused software engineer with a mission to build robust, secure, 
+  and scalable systems. 
+  This site is my corner of the web where I showcase the projects
+  I’ve built, the skills I’ve honed, and the journey I’m on in the world of software development.
+twitter_username: @dobookerS5
+github_username: dbooker5
 minimal_mistakes_skin: neon
 search: true
 
