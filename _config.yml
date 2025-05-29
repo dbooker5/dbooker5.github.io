@@ -16,11 +16,8 @@
 title: Delan Booker Portfolio
 email: booker@studio5.org
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a passionate developer who loves turning ideas into code and a 
-  security-focused software engineer with a mission to build robust, secure, 
-  and scalable systems. 
-  This site is my corner of the web where I showcase the projects
-  I’ve built, the skills I’ve honed, and the journey I’m on in the world of software development.
+  I am a passionate developer who loves turning ideas into code and a security-focused software engineer with a mission to build robust, secure, and scalable systems. 
+  This site is my corner of the web where I showcase the projects I’ve built, the skills I’ve honed, and the journey I’m on in the world of software development.
 twitter_username: @dobookerS5
 github_username: dbooker5
 minimal_mistakes_skin: neon
