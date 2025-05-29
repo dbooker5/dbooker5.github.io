@@ -61,26 +61,26 @@ plugins:
 author:
   name   : "Delan Booker Otieno"
   avatar : "/assets/images/dbookerPpic.png"
-  bio    : "Graduated student in Animation,who is enthusiatic about Cybersecurity and Cloud."
+  bio    : "Software Security Engineer | Full-Stack Developer | Builder of Secure Systems."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+      url: "https://dbooker5.github.io/"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/dobookerS5"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/dbooker5"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/dobookerS5"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
