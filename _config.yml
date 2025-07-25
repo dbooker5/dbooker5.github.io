@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Delan Booker Otieno"
   avatar : "/assets/images/dbookerPpic.png"
-  bio    : "Software Security Engineer | Full-Stack Developer | Builder of Secure Systems."
+  bio    : "I’m a software developer and security engineer with a strong passion for building secure, scalable applications. My expertise includes cloud and network security, ethical hacking, and full-stack development. I enjoy turning ideas into efficient, real-world solutions while ensuring systems are protected against modern threats."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
