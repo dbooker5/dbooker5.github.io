@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Delan Booker Portfolio
 email: booker@studio5.org
-description: >- # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
   I am a passionate developer who loves turning ideas into code and a security-focused software engineer with a mission to build robust, secure, and scalable systems. 
   This site is my corner of the web where I showcase the projects I’ve built, the skills I’ve honed, and the journey I’m on in the world of software development.
 url: "https://dbooker5.github.io"
@@ -32,7 +32,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Africa/Nairobi # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -66,15 +66,15 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://dbooker5.github.io/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:booker@studio5.org"
     - label: "X"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/dobookerS5"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dbooker5"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
@@ -83,11 +83,11 @@ footer:
       url: "https://x.com/dobookerS5"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://github.com/dbooker5"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:booker@studio5.org"
+      
 defaults:
   # _posts
   - scope:
