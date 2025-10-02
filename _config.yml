@@ -89,10 +89,10 @@ footer:
       url: "mailto:booker@studio5.org"
       
 defaults:
-  # _posts
+  # _blog
   - scope:
       path: ""
-      type: posts
+      type: blog
     values:
       layout: single
       author_profile: true
@@ -100,10 +100,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # _portfolio
   - scope:
       path: "_pages"
-      type: pages
+      type: portfolio
     values:
       layout: single
       author_profile: true
